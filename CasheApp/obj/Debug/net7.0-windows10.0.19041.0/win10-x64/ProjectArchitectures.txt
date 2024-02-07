@@ -1,0 +1,1 @@
+C:\Users\Aidar\source\repos\CasheApp\CasheApp\CasheApp.csproj;x64
